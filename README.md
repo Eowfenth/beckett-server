@@ -14,9 +14,9 @@ For example
 ```JSON
 
   {
-    "beckett_version": "0"
+    "beckett_version": "0",
     "id": "mbbksao12mfsqweix133101",
-    "user_id": "01fmvzpask310as"
+    "user_id": "01fmvzpask310as",
     "folder_name": "Inspirations to Worldbuilding",
     "folder_content": {
       "description": "A list of good worldbuilding information"
