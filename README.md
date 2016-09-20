@@ -11,7 +11,7 @@ Produces a formatted html where you can share.
 
 For example
 
-'''JSON
+```JSON
 
   {
     "beckett_version": "0"
@@ -40,7 +40,7 @@ For example
   }
 
 
-'''
+```
 
 #### To do
 
